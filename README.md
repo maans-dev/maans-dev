@@ -4,5 +4,4 @@ Welcome to my code house
 - 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Discord [https://discord.gg/MV8gQXvP]
 - 🤔 I’m looking for help with Data structures and algorithms.
-- 💬 Ask me about Jiujitsu
-- 📫 How to reach me: hermanrademeyer@icloud.com 
+- 📫 How to reach me: iamachilles1@yahoo.com
